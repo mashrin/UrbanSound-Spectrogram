@@ -65,6 +65,14 @@ To use the data in a specific folder(say fold1):
  - The package to create the spectrogram.
  - Sample sound classification neural network using these spectrogram.
  - Spectrogram creation for other well-known audio dataset.
+ 
+### Contributors
+
+Mashrin Srivastava
+
+Saumya Suvarna
+
+This work was done a couple of years back for our Graphics and Multimedia course project at VIT University.
 
 ### Reference:
 [1] https://urbansounddataset.weebly.com/
